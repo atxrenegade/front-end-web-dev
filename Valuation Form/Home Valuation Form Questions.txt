@@ -1,0 +1,45 @@
+Home Valuation Form Questions
+
+Questions
+1. First name 
+2. *Last name 
+3. *E-mail 
+4. *Phone 
+5. *Address 
+6. *Address
+7. *City 
+8. *Province
+9. Postal Code
+
+Property Details:
+
+10. What is motivating you to sell?
+11. What neighborhood/area are you in?
+*12. What type of property? 
+*13. What style of property? 
+*14. Total number of bedrooms?
+*15. Total number of bedrooms above ground?
+*16. How many bathrooms? radio
+17. What year was your property built?  text
+18. Total SqFt of your home? text                                                                                                
+*19. Garage? How big? radio
+*20. Finished basement? radio
+*21. Basement type? ? radio
+*22. Type of exterior?   ? radio
+*23. Site influences?  ? text box or radio
+
+24. Have you any renovations or upgrades to the home or property? text box paragraph style
+
+25. Is there anything else you would like to tell us about the home or property?       text box paragraph style                                                                                                         
+
+26. When are you available for a follow up call to discuss your free valuation?
+text box paragraph style
+
+Additional Information:
+
+27. Are you interested in listing your property? radio yes or no
+28. Are you looking to buy another property? radio yes or nor
+
+29.. How did you hear about us? single line text box
+
+
